@@ -98,16 +98,5 @@ The `SQL Exploratory Data Analysis.sql` script showcases a wide range of analyti
 - **Post-IPO companies** faced the most layoffs.  
 - Major layoffs were concentrated in **Amazon, Google, Meta, Microsoft**.  
 
----
 
-### 🚀 Next Steps  
 
-Potential extensions for this project include:  
-
-- Building **interactive dashboards** using Tableau or Power BI.  
-- Integrating **Python for deeper statistical analysis**.  
-- Forecasting future layoffs using **time-series modeling**.  
-
----
-
-Feel free to **explore the SQL scripts** and adapt them for your own data analysis needs!  
