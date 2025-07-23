@@ -89,6 +89,7 @@ The `SQL Exploratory Data Analysis.sql` script showcases a wide range of analyti
 - `SQL Data Cleaning.sql` – Scripts for cleaning and standardizing raw layoff data.  
 - `SQL Exploratory Data Analysis.sql` – Scripts for analyzing trends, patterns, and insights.
 - `layoffs.csv` - Raw dataset.
+- `Layoffs Data Analysis Insights.pdf` - PDF of Insights and Conclusions derived from the data.
 
 ---
 
