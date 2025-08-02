@@ -6,7 +6,7 @@ This repository contains a comprehensive data analysis project focusing on recen
 
 ---
 
-## 📌 Project Overview  
+##  Project Overview  
 
 The primary goal of this project was to understand the **trends and patterns of layoffs**, particularly during the period affected by the **COVID-19 pandemic**.  
 
@@ -17,13 +17,13 @@ The analysis involved a two-phase approach:
 
 ---
 
-## 📊 Data Source  
+##  Data Source  
 
 The dataset contains information about **layoffs from various companies** across different industries, locations, and time periods.  
 
 ---
 
-## 🧹 Data Cleaning (SQL)  
+##  Data Cleaning (SQL)  
 
 The `SQL Data Cleaning.sql` script details the meticulous steps taken to ensure data quality and integrity.  
 
@@ -48,7 +48,7 @@ Key data cleaning operations include:
 
 ---
 
-## 🔍 Exploratory Data Analysis (SQL)  
+##  Exploratory Data Analysis (SQL)  
 
 The `SQL Exploratory Data Analysis.sql` script showcases a wide range of analytical queries to extract insights from the cleaned data.  
 
@@ -77,7 +77,7 @@ The `SQL Exploratory Data Analysis.sql` script showcases a wide range of analyti
 
 ---
 
-## 🛠️ Technologies Used  
+##  Technologies Used  
 
 - **MySQL** – Database management system for all data cleaning and analysis operations.  
 - **SQL** – Query language for interacting with the MySQL database.  
@@ -93,7 +93,7 @@ The `SQL Exploratory Data Analysis.sql` script showcases a wide range of analyti
 
 ---
 
-### ✅ Insights at a Glance  
+###  Insights at a Glance  
 
 - Layoffs peaked during **COVID-19** and continued into **2023**.  
 - **Consumer & Retail** industries were hit hardest.  
