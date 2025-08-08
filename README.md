@@ -1,4 +1,4 @@
-# Layoffs-Data-Analysis
+
 
 # MySQL Layoffs Data Analysis Project  
 
